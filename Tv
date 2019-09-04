@@ -1,10 +1,20 @@
 group,Dominican Movie
-Pelicula Dominicana "VAMOS DE ROBO",https://www.youtube.com/watch?v=dMGZPLVWShg.m3u8
-Pelicula Dominicana "Pal Campamento",https://www.youtube.com/watch?v=25eD3b9e-NM.m3u8
-Película Dominicana "TODO INCLUIDO",https://www.youtube.com/watch?v=xv46-kam5pE.m3u8
-Película Dominicana "PROFE POR ACCIDENTE",https://www.youtube.com/watch?v=q00UdGaF1xk.m3u8
-Los Domirriqueños Pelicula Completa 2016 Nuevas HD,https://www.youtube.com/watch?v=TORPaGXY8Ak.m3u8
-Ponchao (Full Movie) Sports Comedy. Dominican winter league,https://www.youtube.com/watch?v=tUAoqAoHrTA.m3u8
-YO NO ME RENDIRÉ (PELÍCULA DOMINICANA COMPLETA),https://www.youtube.com/watch?v=g4DKzKvr_rQ.m3u8
-Libre de Pecado Pelicula Dominicana Completa HD,https://www.youtube.com/watch?v=yUq0IO4CmMQ.m3u8
+
+#EXTM3U
+Pelicula Dominicana "VAMOS DE ROBO",https://www.youtube.com/watch?v=dMGZPLVWShg
+#EXTINF:- vamos de robo
+Pelicula Dominicana "Pal Campamento",https://www.youtube.com/watch?v=25eD3b9e-NM
+#EXTINF:- pql campamento
+Película Dominicana "TODO INCLUIDO",https://www.youtube.com/watch?v=xv46-kam5pE
+#EXTINF:- todo incluido
+Película Dominicana "PROFE POR ACCIDENTE",https://www.youtube.com/watch?v=q00UdGaF1xk
+#EXTINF:- profe 
+Los Domirriqueños Pelicula Completa 2016 Nuevas HD,https://www.youtube.com/watch?v=TORPaGXY8A8
+#EXTINF:- domi
+Ponchao (Full Movie) Sports Comedy. Dominican winter league,https://www.youtube.com/watch?v=tUAoqAoHrTA
+#EXTINF:- leqgeu
+YO NO ME RENDIRÉ (PELÍCULA DOMINICANA COMPLETA),https://www.youtube.com/watch?v=g4DKzKvr_rQ
+#EXTINF:- yo me
+Libre de Pecado Pelicula Dominicana Completa HD,https://www.youtube.com/watch?v=yUq0IO4CmMQ
+#EXTINF:- dame un chance
 Dame un Chance - Película Dominicana Completa,https://www.youtube.com/watch?v=gVyjMhDP2BU.m3u8
